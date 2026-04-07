@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "func",
+			"options": {
+				"cwd": "${workspaceFolder}/src"
+			},
+			"command": "host start",
+			"isBackground": true,
+			"problemMatcher": "$func-powershell-watch"
+		}
+	]
+}

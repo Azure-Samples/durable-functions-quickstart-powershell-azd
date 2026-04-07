@@ -1,0 +1,20 @@
+{
+    "name": "Functions Quickstarts Codespace",
+    "image": "mcr.microsoft.com/azure-functions/powershell:4-powershell7.4",
+    "features": {
+      "azure-cli": "latest"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ms-azuretools.vscode-bicep",
+          "ms-azuretools.vscode-docker",
+          "ms-azuretools.vscode-azurefunctions",
+          "ms-vscode.PowerShell",
+          "GitHub.copilot",
+          "humao.rest-client"
+        ]
+      }
+    },
+    "remoteUser": "vscode"
+  }

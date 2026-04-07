@@ -1,0 +1,5 @@
+{
+  "name": "durable-functions-quickstart-powershell",
+  "version": "1.0.0",
+  "description": "Durable Functions PowerShell quickstart - no JS dependencies needed"
+}
